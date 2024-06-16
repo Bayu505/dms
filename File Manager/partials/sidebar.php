@@ -38,7 +38,7 @@ if ($_SESSION['role'] == 0) {
                 <span class="menu-title">Shared Folders </span>
             </a>
         </li>
-        <!-- <li class="nav-item nav-category">Friends</li>
+        <li class="nav-item nav-category">Friends</li>
         <li class="nav-item">
             <a class="nav-link" href="new_friend.php">
                 <i class="bi bi-person-plus-fill fs-5"></i> &nbsp; &nbsp;
@@ -50,7 +50,7 @@ if ($_SESSION['role'] == 0) {
                 <i class="bi bi-people-fill fs-5"></i> &nbsp; &nbsp;
                 <span class="menu-title"> Friends </span>
             </a>
-        </li> -->
+        </li> 
 
         <li class="nav-item nav-category">Settings</li>
         <li class="nav-item">
